@@ -1,1 +1,1 @@
-# Cost_sensitive_neural_network
+# Weight_sensitive_neural_network
